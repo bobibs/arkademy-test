@@ -1,7 +1,10 @@
 # Arkademy Test
 Tes Online Beasiswa Arkademy Bootcamp (Batch 11)
 
-#### Software yang di gunakan untuk mengerjakan soal
+#### Stack
+- Javascript
+
+#### Software
 - Visual Studio Code
 
 #### Cara menjalankan function
