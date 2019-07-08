@@ -1,5 +1,5 @@
-# Arkademy Test
-Tes Online Beasiswa Arkademy Bootcamp (Batch 11)
+# arkademy-test-11-01
+Tes Online Beasiswa Arkademy Bootcamp (Batch 11 Kloter 1)
 
 #### Stack
 - Javascript
